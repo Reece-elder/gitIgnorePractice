@@ -1,0 +1,8 @@
+# specifying by file name
+file1.java
+
+# Specify by file end/type * <file end>
+*.txt
+
+# two ** /directory name will ignore entire directory
+**/example
